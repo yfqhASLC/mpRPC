@@ -1,0 +1,11 @@
+11:10:54 =>[info] /home/czx-asl/mpRPC/example/callee/friendservice.cc:main:43
+11:10:54 =>[info] first log message
+11:30:36 =>[info] service_name:FiendServiceRpc
+11:30:36 =>[info] method_name:GetFriendsList
+11:30:36 =>[info] RpcProvoder start service at ip:127.0.0.1 ,port:10000
+12:22:3 =>[info] service_name:FiendServiceRpc
+12:22:3 =>[info] method_name:GetFriendsList
+12:22:3 =>[info] RpcProvoder start service at ip:127.0.0.1 ,port:10000
+19:10:29 =>[info] service_name:FiendServiceRpc
+19:10:29 =>[info] method_name:GetFriendsList
+19:10:29 =>[info] RpcProvoder start service at ip:127.0.0.1 ,port:10000
